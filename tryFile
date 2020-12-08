@@ -1,4 +1,1 @@
-diff montre ligne par ligne ce qui a été modifié. Ce sont les différences NON INDEXEES.
-diff --staged montre ligne par ligne les modifications surr les fichiers indéxés,
-il faut bien faire la différence.
-
+Vraiment ? commit -a, çà marche ?
